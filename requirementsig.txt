@@ -1,0 +1,14 @@
+azure-identity==1.15.0
+langchain==0.0.187
+openai==1.11.1
+azure-search-documents==11.4.0b3
+azure-storage-blob==12.14.1
+azure-cosmos==4.5.2b1
+tiktoken==0.5.1
+python-dotenv==1.0.0
+pydantic==1.10.13
+azure-monitor-opentelemetry==1.2.0
+pytest-cov==4.1.0
+fastapi==0.109.2
+uvicorn==0.27.1
+Jinja2==3.1.3
