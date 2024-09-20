@@ -204,7 +204,7 @@ pbr==5.10.0
     # via sqlalchemy-migrate
 pg8000==1.29.3
     # via -r requirements.in
-pillow==9.2.0
+pillow==9.3.0
     # via
     #   -r requirements.in
     #   matplotlib
