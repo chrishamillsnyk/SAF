@@ -267,7 +267,7 @@ python-dateutil==2.8.2
     #   pandas
     #   pg8000
     #   python-datetime-tz
-python-jose==3.3.0
+python-jose==3.4.0
     # via -r requirements.in
 pytidylib==0.3.2
     # via -r requirements.in
