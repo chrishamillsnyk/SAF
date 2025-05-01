@@ -41,7 +41,7 @@
 <dependency>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
-<version>1.12.42</version>
+<version>1.12.783</version>
 </dependency>
  
 		<!--Swagger dependencies -->
@@ -701,7 +701,7 @@
 </goals>
 </pluginExecutionFilter>
 <action>
-<ignore></ignore>
+<ignore/>
 </action>
 </pluginExecution>
 </pluginExecutions>
