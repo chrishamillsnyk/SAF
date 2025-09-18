@@ -18,13 +18,13 @@
  
 	<properties>
 <java-version>1.8</java-version>
-<org.springframework-version>4.2.6.RELEASE</org.springframework-version>
-<spring.security.version>4.1.0.RELEASE</spring.security.version>
+<org.springframework-version>6.2.11</org.springframework-version>
+<spring.security.version>6.4.11</spring.security.version>
 <org.aspectj-version>1.6.9</org.aspectj-version>
 <org.slf4j-version>1.7.15</org.slf4j-version>
 <jersey-version>1.19.1</jersey-version>
 <jackson-version>2.10.2</jackson-version>
-<spring-mongo-version>1.10.4.RELEASE</spring-mongo-version>
+<spring-mongo-version>4.4.10</spring-mongo-version>
 <mongodb.version>3.4.2</mongodb.version>
  
 		<!-- For About.jsp -->
@@ -701,7 +701,7 @@
 </goals>
 </pluginExecutionFilter>
 <action>
-<ignore></ignore>
+<ignore/>
 </action>
 </pluginExecution>
 </pluginExecutions>
