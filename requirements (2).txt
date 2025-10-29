@@ -202,7 +202,7 @@ pathspec==0.10.1
     # via -r requirements.in
 pbr==5.10.0
     # via sqlalchemy-migrate
-pg8000==1.29.3
+pg8000==1.31.5
     # via -r requirements.in
 pillow==9.2.0
     # via
