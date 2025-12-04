@@ -362,7 +362,7 @@ sqlalchemy-migrate==0.13.0
     # via -r requirements.in
 sqlalchemy-utils==0.38.3
     # via -r requirements.in
-sqlparse==0.4.2
+sqlparse==0.5.4
     # via sqlalchemy-migrate
 squaremap==1.0.5
     # via runsnakerun
