@@ -78,7 +78,7 @@ et-xmlfile==1.1.0
     # via openpyxl
 filetype==1.1.0
     # via -r requirements.in
-fonttools==4.37.1
+fonttools==4.61.0
     # via matplotlib
 future @ https://github.com/j5int/python-future/archive/9ccadb4e48b2dcd322c52504cc015c96ec959ce0.zip
     # via
